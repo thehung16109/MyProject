@@ -11,6 +11,7 @@
     <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
     <h1>Trang chủ</h1>
+    <h1>fajskdlfjasklđádf1123</h1>
   </div>
 @endsection
   
